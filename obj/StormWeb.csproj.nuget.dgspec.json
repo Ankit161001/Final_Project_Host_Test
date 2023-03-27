@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\College_documents\\SEM#8\\StormWeb - Copy2 (Published on Azure)\\StormWeb\\StormWeb.csproj": {}
+  },
+  "projects": {
+    "E:\\College_documents\\SEM#8\\StormWeb - Copy2 (Published on Azure)\\StormWeb\\StormWeb.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\College_documents\\SEM#8\\StormWeb - Copy2 (Published on Azure)\\StormWeb\\StormWeb.csproj",
+        "projectName": "StormWeb",
+        "projectPath": "E:\\College_documents\\SEM#8\\StormWeb - Copy2 (Published on Azure)\\StormWeb\\StormWeb.csproj",
+        "packagesPath": "C:\\Users\\Ankit Rana\\.nuget\\packages\\",
+        "outputPath": "E:\\College_documents\\SEM#8\\StormWeb - Copy2 (Published on Azure)\\StormWeb\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ankit Rana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.310\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+E:\College_documents\SEM#8\StormWeb - Copy2 (Published on Azure)\StormWeb\obj\Release\net6.0\PubTmp\Out\StormWeb.exe
+E:\College_documents\SEM#8\StormWeb - Copy2 (Published on Azure)\StormWeb\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+E:\College_documents\SEM#8\StormWeb - Copy2 (Published on Azure)\StormWeb\obj\Release\net6.0\PubTmp\Out\appsettings.json
+E:\College_documents\SEM#8\StormWeb - Copy2 (Published on Azure)\StormWeb\obj\Release\net6.0\PubTmp\Out\StormWeb.dll
+E:\College_documents\SEM#8\StormWeb - Copy2 (Published on Azure)\StormWeb\obj\Release\net6.0\PubTmp\Out\StormWeb.deps.json
+E:\College_documents\SEM#8\StormWeb - Copy2 (Published on Azure)\StormWeb\obj\Release\net6.0\PubTmp\Out\StormWeb.runtimeconfig.json
+E:\College_documents\SEM#8\StormWeb - Copy2 (Published on Azure)\StormWeb\obj\Release\net6.0\PubTmp\Out\StormWeb.pdb
+E:\College_documents\SEM#8\StormWeb - Copy2 (Published on Azure)\StormWeb\obj\Release\net6.0\PubTmp\Out\System.Data.SqlClient.dll
+E:\College_documents\SEM#8\StormWeb - Copy2 (Published on Azure)\StormWeb\obj\Release\net6.0\PubTmp\Out\runtimes\win-arm64\native\sni.dll
+E:\College_documents\SEM#8\StormWeb - Copy2 (Published on Azure)\StormWeb\obj\Release\net6.0\PubTmp\Out\runtimes\win-x64\native\sni.dll
+E:\College_documents\SEM#8\StormWeb - Copy2 (Published on Azure)\StormWeb\obj\Release\net6.0\PubTmp\Out\runtimes\win-x86\native\sni.dll
+E:\College_documents\SEM#8\StormWeb - Copy2 (Published on Azure)\StormWeb\obj\Release\net6.0\PubTmp\Out\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\College_documents\SEM#8\StormWeb - Copy2 (Published on Azure)\StormWeb\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

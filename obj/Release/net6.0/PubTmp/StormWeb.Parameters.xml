@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="StormWeb20230323050147" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^E:\\College_documents\\SEM\#8\\StormWeb\ -\ Copy2\ \(Published\ on\ Azure\)\\StormWeb\\obj\\Release\\net6\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
